@@ -1,1 +1,1 @@
-## https://spk80.github.io/cv/cv
+https://spk80.github.io/cv/cv
