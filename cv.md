@@ -41,7 +41,7 @@ psukonkin@gmail.com
 	* Windows, Linux Ubuntu
 * ПО 
 	* Visual Studio, VSCode, Git, GitHub, Chrome DevTools, MapInfo, QGIS, AutoCAD, Visio, Excel, Word
-* Программирование:
+* Программирование
 	* JavaScript, Node.js, React, Redux, Chrome Extensions
 	* HTML, CSS
 	* OOP, SOLID
@@ -49,7 +49,7 @@ psukonkin@gmail.com
 	* SQL
 	* Delphi / ObjectPascal
 	* Excel/VBA
-* СУБД: 
+* СУБД
 	* MySQL Server, MSSQL Server
 
 ## Проекты
