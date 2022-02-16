@@ -1,1 +1,1 @@
-[CV](https://spk80.github.io/cv/cv)
+[PKSukonkin_CV](https://spk80.github.io/cv/cv)
