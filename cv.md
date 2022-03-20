@@ -1,5 +1,7 @@
-## Суконкин Павел Константинович
+# Суконкин Павел Константинович
+
 ---
+
 ```
 Москва
 +7(965)247-50-83
@@ -7,7 +9,9 @@ psukonkin@gmail.com
 ```
 
 ## Профессиональный профиль
+
 ---
+
 * Многолетний практический опыт и глубокие знания в сфере информационных технологий и телекоммуникаций.
 * Разработка методологий, внедрение и реализация задач планирования, развития и эксплуатации фиксированного ШПД, кабельного телевидения и магистральных сетей.
 * Сбор, обработка и анализ больших объемов неструктурированной информации. Нахождение взаимосвязей и построение моделей, создание аналитических инструментов для поддержки принятия решений.
@@ -15,13 +19,17 @@ psukonkin@gmail.com
 * Оптимизация и расширение функционала внутрикорпоративных Web приложений.
 
 ## Опыт работы
+
 ---
+
 ### ОАО Комкор (Акадо-Телеком)
+
 *Москва*
 
 ***[2005 - н.в.]***
 
 **Ведущий инженер**
+
 * Разработка технических решений и подготовка исходных данных для проектов фиксированного ШПД, кабельного телевидения и магистральных сетей.
 * Участие в оценке затрат, подготовка схем физической топологии компонентов ВОЛП различной иерархической структуры и детализации. Контроль и техническое сопровождение ПИР и СМР.
 * Анализ топологии и состояния сетей фиксированного доступа. Нахождение инфраструктурных ограничений и оценка причин инцидентов на линиях связи.
@@ -35,10 +43,12 @@ psukonkin@gmail.com
 * Реализовал RPA массовой обработки различных типов pre-sale запросов по входящим адресам. Формирование и загрузку результатов в OLTP, Excel файлы, графическое отображение в ГИС.
 * Разработал план миграции учетной базы ВОЛС из файлов Excel в реляционную БД Microsoft SQL Server.
 
-
 ## Образование
+
 ---
+
 ### Московский технический университет связи и информатики
+
 ***[1999 - 2004]***
 
 * Факультет: Общетехнический
@@ -47,53 +57,75 @@ psukonkin@gmail.com
 * Диплом: "Модем по стандарту Bluetooth"
 
 ## Технические навыки
+
 ---
-* ОС 
-	* Windows, Linux Ubuntu
-* ПО 
-	* Visual Studio, VSCode, Git, GitHub, Chrome DevTools, MapInfo, QGIS, AutoCAD, Visio, Excel, Word
+
+* ОС
+  * Windows, Linux Ubuntu
+* ПО
+  * Visual Studio, VSCode, Git, GitHub, Chrome DevTools, MapInfo, QGIS, AutoCAD, Visio, Excel, Word
 * Программирование
-	* JavaScript, Node.js, React, Redux, Chrome Extensions
-	* HTML, CSS
-	* OOP, SOLID
-	* C#, WinForms, Json.NET - Newtonsoft
-	* SQL
-	* Delphi / ObjectPascal
-	* Excel/VBA
+  * JavaScript, Node.js, React, Redux, Chrome Extensions
+  * HTML, CSS
+  * OOP, SOLID
+  * C#, WinForms, Json.NET - Newtonsoft
+  * SQL
+  * Delphi / ObjectPascal
+  * Excel/VBA
 * СУБД
-	* MySQL Server, MSSQL Server
+  * MySQL Server, MSSQL Server
 
 ## Проекты
+
 ---
 [github.com/SPK80](https://github.com/SPK80)
 
-* [PopupTuner](https://github.com/SPK80/PopupTuner)
-	* Google Chrome Extension. Подгоняет размеры всплывающего окна под размеры контента, пытается перевести фокус на первое текстовое поле или input.
-	* JavaScript DOM
+* My-Records
+  * Web приложение. Позволяет получать, добавлять, удалять и редактировать текстовую информацию, хранящуюся на сервере My-Records-Server.
+  * JavaScript React Axios REST
+  * Deployed: <https://spk80.github.io/my-records>
+  * GitHub: <https://github.com/SPK80/my-records>
 
-* [Edoc](https://github.com/SPK80/Edoc) - Ускоряет поиск технической документации в корпоративной базе.
-	* Google Chrome Extension 
-	* JavaScript DOM
+* My-Records-Server
+  * Сервер. Позволяет хранить, получать, удалять и изменять текстовую информацию.
+  * Node.js Express.js REST
+  * Deployed: <https://guarded-tundra-65297.herokuapp.com>
+  * GitHub: <https://github.com/SPK80/my-records-server>
 
-* [YamGPS](https://github.com/SPK80/YamGPS) - Помогает быстро найти адрес на Яндекс карте.
-	* Google Chrome Extension  
-	* JavaScript DOM
+* PopupTuner
+  * Google Chrome Extension. Подгоняет размеры всплывающего окна под размеры контента, пытается перевести фокус на первое текстовое поле или input.
+  * JavaScript DOM
+  * GitHub: <https://github.com/SPK80/PopupTuner>
 
-* [Snoopy](https://github.com/SPK80/Snoopy) - Индексирует выбранные директории файловой системы. Позволяет быстро находить и открывать файлы. 
-	* Desktop приложение. 
-	* C# WinForms Json.NET(Newtonsoft)
+* Edoc
+  * Google Chrome Extension. Ускоряет поиск технической документации в корпоративной базе.
+  * JavaScript DOM
+  * GitHub: <https://github.com/SPK80/Edoc>
 
-* [NaumenAsistent](https://github.com/SPK80/NaumenAssistant) - Позволяет получить и управлять данными из корпоративной БД в пакетном режиме через пользовательский Web интерфейс. 
-	* Desktop приложение
-	* C# WinForms Selenium WebDriver
+* YamGPS
+  * Google Chrome Extension. Помогает быстро найти адрес на Яндекс карте.
+  * JavaScript DOM
+  * GitHub: <https://github.com/SPK80/YamGPS>
+
+* Snoopy
+  * Desktop приложение. Индексирует выбранные директории файловой системы. Позволяет быстро находить и открывать файлы.
+  * C# WinForms Json.NET(Newtonsoft)
+  * GitHub: <https://github.com/SPK80/Snoopy>
+
+* NaumenAsistent
+  * Desktop приложение. Позволяет получить и управлять данными из корпоративной БД в пакетном режиме через пользовательский Web интерфейс.
+  * C# WinForms Selenium WebDriver
+  * GitHub: <https://github.com/SPK80/NaumenAssistant>
 
 * PresSearch
-	* Desktop приложение. Позволяет в полуавтоматическом режиме обрабатывать список неформализованных адресов на предмет их наличия в списке объектов сети.
-	* Delphi
+  * Desktop приложение. Позволяет в полуавтоматическом режиме обрабатывать список неформализованных адресов на предмет их наличия в списке объектов сети.
+  * Delphi
 
 ## Дополнительная информация
+
 ---
-* Иностранный язык: английский - чтение технической литературы
+
+* Иностранный язык: **английский** - чтение технической литературы
 * Сертификат о вакцинации/ревакцинации против COVID-19
 
 ---
