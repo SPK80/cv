@@ -65,30 +65,42 @@ psukonkin@gmail.com
 * ПО
   * Visual Studio, VSCode, Git, GitHub, Chrome DevTools, MapInfo, QGIS, AutoCAD, Visio, Excel, Word
 * Программирование
-  * JavaScript, Node.js, React, Redux, Chrome Extensions
+  * JavaScript, Node.js
+  * React, Redux, AntDesign
+  * Chrome Extensions
   * HTML, CSS
   * OOP, SOLID
   * C#, WinForms, Json.NET - Newtonsoft
   * SQL
   * Delphi / ObjectPascal
   * Excel/VBA
-* СУБД
-  * MySQL Server, MSSQL Server
+  * СУБД
+  * MySQL Server, MSSQL Server, mongoDB
 
 ## Проекты
 
 ---
 [github.com/SPK80](https://github.com/SPK80)
 
+* Payment-test-client
+  * Web приложение. Форма ввода информации о платеже. Реализована валидация и отправка на сервер введённой информации в формате JSON.
+  * JavaScript React AntDesign Axios
+  * GitHub: <https://github.com/SPK80/payment-test-client>
+
+* Payment-test-server
+  * Сервер. Принимает информацию о платежах, и сохраняет в mongoDB.
+  * Node.js Express.js Mongoose
+  * GitHub: <https://github.com/SPK80/payment-test-server>
+
 * My-Records
   * Web приложение. Позволяет получать, добавлять, удалять и редактировать текстовую информацию, хранящуюся на сервере My-Records-Server.
-  * JavaScript React Axios REST
+  * JavaScript React Axios
   * Deployed: <https://spk80.github.io/my-records>
   * GitHub: <https://github.com/SPK80/my-records>
 
 * My-Records-Server
   * Сервер. Позволяет хранить, получать, удалять и изменять текстовую информацию.
-  * Node.js Express.js REST
+  * Node.js Express.js REST-API
   * Deployed: <https://guarded-tundra-65297.herokuapp.com>
   * GitHub: <https://github.com/SPK80/my-records-server>
 
