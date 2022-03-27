@@ -82,6 +82,12 @@ psukonkin@gmail.com
 ---
 [github.com/SPK80](https://github.com/SPK80)
 
+* Exchange-rates
+  * Web приложение. Отображает список курсов валют на текущий день.
+  * JavaScript React AntDesign Axios
+  * Deployed: <https://spk80.github.io/exchange-rates>
+  * GitHub: <https://github.com/SPK80/exchange-rates>
+
 * Payment-test-client
   * Web приложение. Форма ввода информации о платеже. Реализована валидация и отправка на сервер введённой информации в формате JSON.
   * JavaScript React AntDesign Axios
